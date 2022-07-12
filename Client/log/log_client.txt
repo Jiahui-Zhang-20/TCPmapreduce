@@ -1,0 +1,121 @@
+Extra credit disabled
+[1] open connection
+[2] open connection
+[1] UPDATE_WSTAT: 1
+[3] open connection
+[2] UPDATE_WSTAT: 1
+[1] close connection (successful execution)
+[2] close connection (successful execution)
+[3] UPDATE_WSTAT: 1
+[3] close connection (successful execution)
+[4] open connection
+[4] UPDATE_WSTAT: 1
+[4] close connection (successful execution)
+[5] open connection
+[5] UPDATE_WSTAT: 1
+[5] close connection (successful execution)
+[6] open connection
+[7] open connection
+[6] UPDATE_WSTAT: 1
+[6] close connection (successful execution)
+[7] UPDATE_WSTAT: 1
+[7] close connection (successful execution)
+[8] open connection
+[9] open connection
+[8] UPDATE_WSTAT: 1
+[8] close connection (successful execution)
+[10] open connection
+[9] UPDATE_WSTAT: 1
+[9] close connection (successful execution)
+[10] UPDATE_WSTAT: 1
+[10] close connection (successful execution)
+[1] open connection
+[1] open connection
+[1] GET_MY_UPDATES: 1 1
+[1] close connection (successful execution)
+[1] GET_ALL_UPDATES: 1 10
+[1] close connection (successful execution)
+[1] open connection
+[1] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[1] close connection (successful execution)
+[2] open connection
+[2] GET_MY_UPDATES: 1 1
+[2] close connection (successful execution)
+[2] open connection
+[2] GET_ALL_UPDATES: 1 10
+[2] close connection (successful execution)
+[2] open connection
+[2] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[2] close connection (successful execution)
+[3] open connection
+[3] GET_MY_UPDATES: 1 1
+[3] close connection (successful execution)
+[3] open connection
+[3] GET_ALL_UPDATES: 1 10
+[3] close connection (successful execution)
+[3] open connection
+[3] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[3] close connection (successful execution)
+[4] open connection
+[4] GET_MY_UPDATES: 1 1
+[4] close connection (successful execution)
+[4] open connection
+[4] GET_ALL_UPDATES: 1 10
+[4] close connection (successful execution)
+[4] open connection
+[4] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[4] close connection (successful execution)
+[5] open connection
+[5] GET_MY_UPDATES: 1 1
+[5] close connection (successful execution)
+[5] open connection
+[5] GET_ALL_UPDATES: 1 10
+[5] close connection (successful execution)
+[5] open connection
+[5] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[5] close connection (successful execution)
+[6] open connection
+[6] GET_MY_UPDATES: 1 1
+[6] close connection (successful execution)
+[6] open connection
+[6] GET_ALL_UPDATES: 1 10
+[6] close connection (successful execution)
+[6] open connection
+[6] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[6] close connection (successful execution)
+[7] open connection
+[7] GET_MY_UPDATES: 1 1
+[7] close connection (successful execution)
+[7] open connection
+[7] GET_ALL_UPDATES: 1 10
+[7] close connection (successful execution)
+[7] open connection
+[7] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[7] close connection (successful execution)
+[8] open connection
+[8] GET_MY_UPDATES: 1 1
+[8] close connection (successful execution)
+[8] open connection
+[8] GET_ALL_UPDATES: 1 10
+[8] close connection (successful execution)
+[8] open connection
+[8] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[8] close connection (successful execution)
+[9] open connection
+[9] GET_MY_UPDATES: 1 1
+[9] close connection (successful execution)
+[9] open connection
+[9] GET_ALL_UPDATES: 1 10
+[9] close connection (successful execution)
+[9] open connection
+[9] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[9] close connection (successful execution)
+[10] open connection
+[10] open connection
+[10] GET_MY_UPDATES: 1 1
+[10] close connection (successful execution)
+[10] GET_ALL_UPDATES: 1 10
+[10] close connection (successful execution)
+[10] open connection
+[10] GET_WSTAT: 1 1 0 5 17 46 84 117 130 143 129 114 81 47 37 21 15 5 5 0 3 
+[10] close connection (successful execution)

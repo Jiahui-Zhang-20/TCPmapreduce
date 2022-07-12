@@ -1,15 +1,100 @@
-2.1. Messages
-There are four different types of requests sent from a client
-to the server. When clients send a request to the server in order
-to update or get data, one of the following request codes should
-be specified in the request message.
-UPDATE_WSTAT: to update PER-FILE word length statistics.
-GET_MY_UPDATES: to get the current number of updates of a client.
-GET_ALL_UPDATES: to get the current number of updates of all clients.
-GET_WSTAT: to get the current word length statistics from the server.
-When the server response to the request, one of the following response
-codes and requested data should be specified in the response message.
-RSP_NOK: to indicate unsuccessful request. When a client receives a
-response with RSP_NOK, the server and the client should close their
-TCP connection.
-RSP_OK: to indicate successful request.
+coadjuvate
+unjamming
+deediest
+tachistoscopically
+reanalyzed
+shiers
+overplenitude
+swith
+uncalamitously
+pamphleter
+crashworthy
+supercapital
+godlily
+gemmules
+republish
+juniorship
+suburethral
+confine
+gifts
+antireligiously
+forgetters
+mirkiness
+pandure
+sunfoil
+divulgatory
+incorrect
+overmelodious
+dispersible
+cherubfish
+abtruse
+nephoscope
+nurturance
+linoleate
+antichresis
+turvy
+gephyrean
+nightstick
+polyspore
+pharmacomaniac
+amplicative
+roqueting
+soudagur
+lophiomyinae
+nonsugar
+aequian
+anagignoskomena
+guestimated
+whitherwards
+packager
+teise
+xanthomonas
+betallow
+pyrazine
+implying
+goodlier
+busheller
+transaquatic
+coincidency
+remaindered
+unfeudal
+lynx
+microbiological
+footwalk
+ostsis
+rapeseed
+aestuary
+piline
+coinhabit
+volleyingly
+unregenerating
+apert
+slangish
+uro
+bitable
+ungrasp
+olders
+leitneriaceous
+propodeum
+anabolism
+molybdocolic
+reavoidance
+kindest
+chromatographic
+adansonia
+zymosimeter
+adipsia
+upcurling
+galravage
+defleaing
+unremote
+embryologic
+enterozoan
+triter
+macroclimatology
+schematonics
+minhag
+frogmouths
+taw
+septemberer
+covent

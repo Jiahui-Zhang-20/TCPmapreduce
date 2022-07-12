@@ -29,4 +29,7 @@
 #define RSP_NOK                     0
 #define RSP_OK                      1
 
+#define PERSIST                     1
+#define NO_PERSIST                  0
+
 #endif //SERVER_CLIENT_PROTOCOL_H
